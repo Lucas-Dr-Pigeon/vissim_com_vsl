@@ -1,0 +1,3 @@
+exception: access violation
+File: .\strdlg.cpp
+Line: 1540
