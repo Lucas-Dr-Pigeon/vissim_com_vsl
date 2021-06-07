@@ -1,0 +1,7 @@
+README.md
+setup.py
+vissim_v5.egg-info/PKG-INFO
+vissim_v5.egg-info/SOURCES.txt
+vissim_v5.egg-info/dependency_links.txt
+vissim_v5.egg-info/top_level.txt
+vissim_v5.egg-info/zip-safe
