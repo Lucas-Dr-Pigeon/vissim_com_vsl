@@ -1,0 +1,484 @@
+Vehicle input 18 (link 6) did not generate all vehicles
+  (81 vehicles left). Discharge rate is smaller than input flow.
+Simulation time 68: Vehicle 122 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 72: Vehicle 114 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 79: Vehicle 58 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 88: Vehicle 11 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 99: Vehicle 62 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Vehicle input 19 (link 1) did not generate all vehicles
+  (74 vehicles left). Discharge rate is smaller than input flow.
+Vehicle input 21 (link 6) did not generate all vehicles
+  (7 vehicles left). Discharge rate is smaller than input flow.
+Simulation time 101: Vehicle 73 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 105: Vehicle 30 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 107: Vehicle 35 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 123: Vehicle 222 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 131: Vehicle 39 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 133: Vehicle 14 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 135: Vehicle 146 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 139: Vehicle 40 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 141: Vehicle 23 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 143: Vehicle 181 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 150: Vehicle 162 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Vehicle input 22 (link 1) did not generate all vehicles
+  (10 vehicles left). Discharge rate is smaller than input flow.
+Vehicle input 23 (link 2) did not generate all vehicles
+  (91 vehicles left). Discharge rate is smaller than input flow.
+Vehicle input 24 (link 6) did not generate all vehicles
+  (10 vehicles left). Discharge rate is smaller than input flow.
+Simulation time 151: Vehicle 206 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 156: Vehicle 231 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 162: Vehicle 312 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 164: Vehicle 112 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 166: Vehicle 149 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 173: Vehicle 51 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 174: Vehicle 179 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 175: Vehicle 127 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 180: Vehicle 171 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 181: Vehicle 168 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 186: Vehicle 145 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 189: Vehicle 178 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 194: Vehicle 113 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Vehicle input 3 (link 3) did not generate all vehicles
+  (161 vehicles left). Discharge rate is smaller than input flow.
+Simulation time 202: Vehicle 232 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 207: Vehicle 139 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 214: Vehicle 133 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 216: Vehicle 245 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 217: Vehicle 148 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 219: Vehicle 259 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 221: Vehicle 165 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 227: Vehicle 228 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 229: Vehicle 317 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 231: Vehicle 264 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 232: Vehicle 156 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 234: Vehicle 191 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 238: Vehicle 378 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 239: Vehicle 210 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 241: Vehicle 249 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 242: Vehicle 220 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 244: Vehicle 243 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 245: Vehicle 240 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 247: Vehicle 234 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 248: Vehicle 244 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 250: Vehicle 292 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 251: Vehicle 306 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 253: Vehicle 224 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 254: Vehicle 310 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 255: Vehicle 271 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 257: Vehicle 279 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 259: Vehicle 289 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 270: Vehicle 304 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 276: Vehicle 301 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 278: Vehicle 338 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 280: Vehicle 342 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 282: Vehicle 318 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 283: Vehicle 374 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 285: Vehicle 323 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 291: Vehicle 415 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 292: Vehicle 376 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 294: Vehicle 344 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Vehicle input 4 (link 3) did not generate all vehicles
+  (149 vehicles left). Discharge rate is smaller than input flow.
+Simulation time 300: Vehicle 357 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 302: Vehicle 412 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 303: Vehicle 373 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 305: Vehicle 439 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 306: Vehicle 402 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 308: Vehicle 390 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 311.0: Vehicle 629 (on route 2 of
+  routing decision 1) after 60.0 seconds of waiting for lane change
+  removed from link 3 at position 319.0.
+Simulation time 313: Vehicle 382 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 315: Vehicle 428 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 317: Vehicle 425 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 346: Vehicle 494 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 348: Vehicle 406 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 350: Vehicle 356 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 351: Vehicle 474 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 354: Vehicle 482 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 356: Vehicle 449 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 361: Vehicle 488 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 362: Vehicle 463 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 364: Vehicle 492 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 365: Vehicle 502 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 367: Vehicle 486 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 378: Vehicle 453 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 381: Vehicle 498 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 383: Vehicle 518 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 386: Vehicle 549 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 388: Vehicle 440 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 389: Vehicle 505 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 401: Vehicle 556 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 408: Vehicle 558 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 410: Vehicle 531 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 415: Vehicle 528 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 416.6: Vehicle 756 (on route 2 of
+  routing decision 2) after 60.0 seconds of waiting for lane change
+  removed from link 3 at position 953.0.
+Simulation time 421: Vehicle 533 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 423: Vehicle 544 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 429: Vehicle 572 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 430: Vehicle 592 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 436: Vehicle 567 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 438: Vehicle 573 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 441: Vehicle 611 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 443: Vehicle 534 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 445: Vehicle 574 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 447: Vehicle 584 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 450: Vehicle 620 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 451: Vehicle 600 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 453: Vehicle 589 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 456: Vehicle 641 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 459: Vehicle 673 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 461: Vehicle 630 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 474: Vehicle 666 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 477: Vehicle 615 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 478: Vehicle 683 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 480: Vehicle 585 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 489: Vehicle 724 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 491: Vehicle 581 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 493: Vehicle 570 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 495: Vehicle 599 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 496: Vehicle 644 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 498: Vehicle 627 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 500: Vehicle 645 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 504: Vehicle 729 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 506: Vehicle 621 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 511: Vehicle 701 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 513: Vehicle 625 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 515: Vehicle 706 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 516: Vehicle 662 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 542: Vehicle 668 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 545: Vehicle 652 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 547: Vehicle 648 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 550: Vehicle 705 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 551: Vehicle 749 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 553: Vehicle 751 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 565: Vehicle 763 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 565.5: Vehicle 998 (on route 2 of
+  routing decision 2) after 60.0 seconds of waiting for lane change
+  removed from link 3 at position 953.0.
+Simulation time 567: Vehicle 745 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 569: Vehicle 714 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 571: Vehicle 655 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 572.7: Vehicle 961 (on route 2 of
+  routing decision 2) after 60.0 seconds of waiting for lane change
+  removed from link 3 at position 961.0.
+Simulation time 573: Vehicle 773 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 575: Vehicle 739 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 577: Vehicle 723 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 579: Vehicle 712 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 580: Vehicle 762 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 582: Vehicle 728 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 584: Vehicle 784 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 586: Vehicle 774 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 588: Vehicle 672 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 590: Vehicle 821 (on route 2 from
+  routing decision 2) reached the end of link 3
+  while searching for the next link (10010) of the route.
+Simulation time 592: Vehicle 689 (on route 2 from
+  routing decision 3) reached the end of link 3
+  while searching for the next link (10011) of the route.
+Simulation time 593: Vehicle 733 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
+Simulation time 597: Vehicle 801 (on route 2 from
+  routing decision 1) reached the end of link 3
+  while searching for the next link (10009) of the route.
